@@ -1,1 +1,1 @@
-# CSC320CTA4Opt2
+# CSC320 Module 4 Critical Thinking: Option 2
